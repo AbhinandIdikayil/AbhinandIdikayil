@@ -1,17 +1,10 @@
 
 
-###
-
-
-
-###
-
 
 <h1 align="center">I AM Abhinand</h1>
 <h3 align="center">MERN stack developer</h3>
 
 
-<
 - 🌱 I’m currently learning **React And Redux**
 
 - 👨‍💻 All My projects available at [My Repositories](https://github.com/AbhinandIdikayil?tab=repositories)
