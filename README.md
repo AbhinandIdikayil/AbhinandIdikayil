@@ -52,7 +52,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/AbhinandIdikayil/AbhinandIdikayil/blob/main/snake.yml" alt="Snake animation" />
 
 ###
 
