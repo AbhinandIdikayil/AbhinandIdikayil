@@ -1,6 +1,6 @@
 
 
-👋 Hello 🕸️ spiders! I'm Abhinand i , a passionate Full Stack Developer based in India 🇮🇳.
+🙏 Howdy 🕸️ dev! I'm Abhinand i , a passionate Full Stack Developer based in India 🇮🇳.
 
 ## About Me
 
