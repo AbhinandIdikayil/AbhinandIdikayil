@@ -14,10 +14,12 @@ I am enthusiastic about Web devolepment, AI, Programming. I believe that the tec
 
 List the technologies and tools you frequently use. This gives visitors a quick overview of your skills.
 
-- 💻 **Programming Languages:** JavaScript, C, Java.
+- 💻 **Programming Languages:** JavaScript, Typescript.
 - 🛠️ **Frameworks:** React, etc.
 - 📦 **Databases:** MongoDB, PostgreSQL, etc.
 - 🔧 **Tools:** Git, VSCode, Docker, etc.
+
+
 
 ## Connect with Me
 
