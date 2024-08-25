@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am enthusiastic about Web devolepment, AI, Programming. I believe that the technology can revolutionize the enitre world.
+I am enthusiastic about Web devolepment, AI, Programming. 
 
 - 💼 Currently learning MERN
 - 🌱 Learning and exploring new technologies
