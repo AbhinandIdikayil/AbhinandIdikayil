@@ -6,7 +6,6 @@
 
 I am enthusiastic about Web devolepment, AI, Programming. 
 
-- 💼 Currently learning MERN
 - 🌱 Learning and exploring new technologies
 
 ## Connect with Me
