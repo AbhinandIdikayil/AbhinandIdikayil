@@ -1,6 +1,6 @@
 
 
-🙏 Howdy  I'm Abhinand , a passionate Full Stack Developer based in India 🇮🇳.
+🙏 Howdy  I'm Abhinand , a passionate Full Stack Developer 
 
 
 
